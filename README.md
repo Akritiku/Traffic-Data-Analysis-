@@ -27,5 +27,11 @@ It’s been an awesome learning experience — if you’d like to check it out o
 # Screenshots
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/18cb014a-6ddb-4f51-b955-a9e7fea2d5f7" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e9274832-5e10-4f87-bd05-5a19368d3173" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7d557144-d96e-4346-af83-dc37d71d725c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/83bf9759-e2d8-4a61-9bab-bc4d03ffb21f" />
+
+
+
 
 

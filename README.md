@@ -24,5 +24,8 @@ It’s been an awesome learning experience — if you’d like to check it out o
 
 #WebApp #DataVisualization #ReactJS #StudentProject #TeamWork #PuneTraffic #AccidentData #FrontendDev #TailwindCSS
 
+# Screenshots
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/18cb014a-6ddb-4f51-b955-a9e7fea2d5f7" />
 
 
